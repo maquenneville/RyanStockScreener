@@ -13,4 +13,4 @@ Returns a .xlsx file in your CWD.
 This is my first stock picker that uses a custom hybrid of indicator interpretation (boolean, simple numeric ranking, and incorporating the number of days from a specific event) to create one unified score.  From here I'd like to keep working on honing these more simple, traditional indicators for stock screening, before moving on to machine learning incorporation.
 
 
-
+NOTE:  This program takes ~ 1.5 hours to run on my machine.  I am working on improving the time efficiency.
